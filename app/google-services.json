@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67692870697",
+    "firebase_url": "https://studentdetailapp-default-rtdb.firebaseio.com",
+    "project_id": "studentdetailapp",
+    "storage_bucket": "studentdetailapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67692870697:android:26f837daaea52d3ef97038",
+        "android_client_info": {
+          "package_name": "com.appvaze.studentsdetailapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67692870697-2jbh5ecr7jr7j8m3d28l7t3csrpl4eq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CNZTr-8hGWulNuEd4cvBKKzBInhaXXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67692870697-2jbh5ecr7jr7j8m3d28l7t3csrpl4eq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
